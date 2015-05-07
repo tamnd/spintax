@@ -8,7 +8,7 @@ A Go package to parse spintax, a text format used for automated article generati
 
 ## Install
 ```
-$ go get http://github.com/tamnd/spintax
+$ go get github.com/tamnd/spintax
 ```
 
 ## Usage
